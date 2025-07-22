@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👩‍💻 Sanskruti Pawar
 
-<!--
-**sanskruti687/sanskruti687** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Aspiring Cloud | Java Specialist | DevOps Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 I'm a passionate Computer Science student dedicated to building scalable, efficient, and impactful solutions through modern technology. With strong foundations in **Java**, **Web Development**, and **Cloud & DevOps tools**, I enjoy learning and contributing to real-world tech.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages:** Java, HTML, CSS, JavaScript  
+- **Database:** MySQL  
+- **Web Development:** Responsive Web Design, JavaScript (DOM)  
+- **Cloud & DevOps:** AWS, Docker, Jenkins, Kubernetes, Git, Linux  
+- **CI/CD & Automation:** Continuous Integration, Deployment Pipelines, Testing Tools  
+
+---
+
+## 📚 Currently Learning
+
+- Spring Boot & REST APIs  
+- Advanced DevOps (Kubernetes, Monitoring, Scaling)  
+- Cloud Architecture Patterns  
+- System Design Fundamentals  
+
+---
+
+> “The best way to predict the future is to create it.” – Abraham Lincoln
