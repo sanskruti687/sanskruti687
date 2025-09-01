@@ -53,7 +53,18 @@
 
 ---
 
-## 🌈 Closing Note  
+## ✨ My Journey  
 
-> *"Turning coffee ☕ into code, and ideas 💡 into reality.  
-> Always exploring, always building, always learning."* 🚀  
+🌼 Every day is a step toward becoming a **skilled Cloud & DevOps Engineer**.  
+🌸 I enjoy creating, learning, and sharing — from coding projects to cloud solutions.  
+🌱 Always open to collaboration and new opportunities.  
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding animation">
+</p>
+
+<p align="center">
+  <em>✨ Thanks for visiting my profile — Let's build the future together! ✨</em>
+</p>
