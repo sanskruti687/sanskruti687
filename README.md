@@ -1,6 +1,6 @@
-<!-- 🌟 3D Animation Header -->
+<!-- 🌟 Study Girl Animation Header -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="700" alt="3D Animation Header"/>
+  <img src="https://i.pinimg.com/originals/8d/0f/eb/8d0feb96f1a48f1a4b1a0a9c67c1d3d5.gif" width="700" alt="Study Girl Animation"/>
 </p>
 
 # 👩‍💻 Hey, I'm **Sanskruti Pawar**
@@ -53,9 +53,9 @@
 
 ---
 
-<!-- 🌟 3D Animation Footer -->
+<!-- 🌟 Study Girl Animation Footer -->
 <p align="center">
-  <img src="https://i.gifer.com/7efs.gif" width="700" alt="3D Animation Footer"/>
+  <img src="https://i.pinimg.com/originals/26/6a/8e/266a8e0dfde2b2d6e6a1c869f2d4b4c2.gif" width="700" alt="Study Girl Animation Footer"/>
 </p>
 
 ## 🌈 Closing Note  
