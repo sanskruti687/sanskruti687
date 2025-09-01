@@ -1,6 +1,6 @@
-<!-- Header GIF -->
+<!-- 🌟 3D Animation Header -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/f4/4d/1a/f44d1a6e3c94a01c2a1f8f9b1f7b7f4d.gif" width="200" alt="Coding Girl">
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="700" alt="3D Animation Header"/>
 </p>
 
 # 👩‍💻 Hey, I'm **Sanskruti Pawar**
@@ -52,6 +52,11 @@
 </p>
 
 ---
+
+<!-- 🌟 3D Animation Footer -->
+<p align="center">
+  <img src="https://i.gifer.com/7efs.gif" width="700" alt="3D Animation Footer"/>
+</p>
 
 ## 🌈 Closing Note  
 
