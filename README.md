@@ -1,56 +1,59 @@
-<!-- Profile README.md -->
-
+<!-- Header GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250" alt="Girl studying animation">
+  <img src="https://i.pinimg.com/originals/f4/4d/1a/f44d1a6e3c94a01c2a1f8f9b1f7b7f4d.gif" width="200" alt="Coding Girl">
 </p>
 
-<h1 align="center">👩‍💻 Hey, I'm Sanskruti Pawar</h1>
+# 👩‍💻 Hey, I'm **Sanskruti Pawar**
+
+✨ *Aspiring Cloud Engineer | Java Specialist | DevOps Enthusiast* ✨  
+
+🚀 A curious mind passionate about **building scalable solutions**,  
+🌩 exploring **Cloud & DevOps technologies**, and  
+💡 crafting impactful software with **Java & Web Development**.  
+
+---
+
+## 🌟 About Me  
+
+- 🎓 Final Year B.E. (IT) Student at **Sinhgad Institute of Technology and Science, Pune**  
+- 💻 Enjoy solving problems and turning ideas into **working projects**  
+- ☁️ Exploring **AWS, Docker, Kubernetes, Jenkins, CI/CD pipelines**  
+- 🌱 Continuously learning **Spring Boot, REST APIs & System Design**  
+- 🎯 Goal: To design **scalable cloud-native applications**  
+
+---
+
+## 🛠️ Tech Toolbox  
 
 <p align="center">
-  <em>🚀 Aspiring Cloud & Java Specialist | 🌩️ DevOps Enthusiast | 💡 Lifelong Learner</em>
+  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,mysql,aws,docker,jenkins,kubernetes,git,linux&perline=6" />
 </p>
 
 ---
 
-## 🌸 About Me  
-
-✨ A passionate **Computer Science student** building scalable, efficient, and impactful solutions.  
-💻 Skilled in **Java, Web Development, and DevOps tools**.  
-🌱 Currently exploring **Spring Boot, Kubernetes, and Cloud Architecture patterns**.  
-🎯 Driven by the belief: *"The best way to predict the future is to create it."*  
-
----
-
-## 🛠️ Tech Stack  
-
-- **Languages:** Java, HTML, CSS, JavaScript  
-- **Database:** MySQL  
-- **Web Development:** Responsive Design, DOM Manipulation  
-- **Cloud & DevOps:** AWS, Docker, Jenkins, Kubernetes, Git, Linux  
-- **CI/CD & Automation:** Pipelines, Containerization, Testing Tools  
-
----
-
-## 📚 What I'm Learning  
-
-📌 **Spring Boot & REST APIs**  
-📌 **Advanced DevOps (Kubernetes, Monitoring, Scaling)**  
-📌 **System Design Fundamentals**  
-
----
-
-## ✨ My Journey  
-
-🌼 Every day is a step toward becoming a **skilled Cloud & DevOps Engineer**.  
-🌸 I enjoy creating, learning, and sharing — from coding projects to cloud solutions.  
-🌱 Always open to collaboration and new opportunities.  
-
----
+## 📊 GitHub Overview  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding animation">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanskrutipawar&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskrutipawar&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
+---
+
+## 🔥 Contributions Activity  
+
 <p align="center">
-  <em>✨ Thanks for visiting my profile — Let's build the future together! ✨</em>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanskrutipawar&theme=tokyonight&hide_border=true" height="160"/>
 </p>
+
+<!-- Snake Contribution Graph -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+## 🌈 Closing Note  
+
+> *"Turning coffee ☕ into code, and ideas 💡 into reality.  
+> Always exploring, always building, always learning."* 🚀  
